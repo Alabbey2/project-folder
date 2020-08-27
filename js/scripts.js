@@ -1,4 +1,4 @@
-
+/**
 document.addEventListener('DOMContentLoaded', startScript);
 
 function startScript() {
@@ -25,3 +25,4 @@ function startScript() {
 
 
 };
+ */
